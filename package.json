@@ -1,0 +1,23 @@
+{
+  "name": "repro-i18n-27",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pastak/repro-i18n-27.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pastak/repro-i18n-27/issues"
+  },
+  "homepage": "https://github.com/pastak/repro-i18n-27#readme",
+  "dependencies": {
+    "i18n-js": "^4.1.0",
+    "typescript": "^4.7.4"
+  }
+}
